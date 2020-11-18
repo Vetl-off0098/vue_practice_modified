@@ -1,0 +1,72 @@
+[
+    {
+      "id_product": 123,
+      "product_name": "Drift Récamière",
+      "price": 45600,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/divan_drift_recamiere.jpg?itok=_NkdGRAV",
+      "cartImage": "https://placehold.it/100x80"
+    },
+    {
+      "id_product": 456,
+      "product_name": "Mason",
+      "price": 1000,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/derzhatel_dlya_gazet_mason.jpg?itok=6l_ZVuof",
+      "cartImage": "https://placehold.it/100x80"
+    },
+    {
+      "id_product": 1,
+      "product_name": "Диван Fabricius",
+      "price": 1000,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/divan_fabricius.jpg?itok=j5Xl7R8q",
+      "cartImage": "https://placehold.it/100x80"
+    },
+    {
+      "id_product": 2,
+      "product_name": "Барный стул Lox",
+      "price": 200,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/barnyy_stul_lox.jpg?itok=Khoi-Y3j",
+      "cartImage": "https://placehold.it/100x80"
+    },
+    {
+      "id_product": 3,
+      "product_name": "Барный стул 375",
+      "price": 20,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/wk-375_barhocker-0001.jpg?itok=EGBZsMJd",
+      "cartImage": "https://placehold.it/100x80"
+    },
+    {
+      "id_product": 4,
+      "product_name": "Диван Jaan",
+      "price": 10,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/divan_jaan.jpg?itok=Rn_o49AP",
+      "cartImage": "https://placehold.it/100x80"
+    },
+    {
+      "id_product": 5,
+      "product_name": "Диван Jason 390",
+      "price": 25,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/divan_jason_390.jpg?itok=JvqBWsiK",
+      "cartImage": "https://placehold.it/100x80"
+    },
+    {
+      "id_product": 6,
+      "product_name": "Eclipse",
+      "price": 30,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/zhurnalnyy_stolik_eclipse.jpg?itok=roUYPbcA",
+      "cartImage": "https://placehold.it/100x80"
+    },
+    {
+      "id_product": 7,
+      "product_name": "Joco Stone",
+      "price": 18,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/wk-joco_stone-0001_0.jpg?itok=CwywCsTm",
+      "cartImage": "https://placehold.it/100x80"
+    },
+    {
+      "id_product": 8,
+      "product_name": "Lox",
+      "price": 24,
+      "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/zhurnalnyy_stolik_lox.jpg?itok=ardio9-I",
+      "cartImage": "https://placehold.it/100x80"
+    }
+]

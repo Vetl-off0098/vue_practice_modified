@@ -1,0 +1,12 @@
+{
+ "contents": [
+  {
+   "id_product": 3,
+   "product_name": "Барный стул 375",
+   "price": 20,
+   "image": "http://wh-h.ru/sites/default/files/styles/w640h640adholst/public/produkts/wk-375_barhocker-0001.jpg?itok=EGBZsMJd",
+   "cartImage": "https://placehold.it/100x80",
+   "quantity": 1
+  }
+ ]
+}
